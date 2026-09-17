@@ -249,7 +249,6 @@ Benefícios:
 
 - Node.js
 - Fastify ou Express
-- Prisma ORM
 
 ### Frontend
 

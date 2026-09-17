@@ -167,7 +167,7 @@ A proposta foi construída com base nos conceitos estudados durante a Fase 1 da 
 
 ### Fase 3
 
-- Persistência de dados utilizando PostgreSQL e Prisma ORM
+- Persistência de dados utilizando PostgreSQL
 
 ### Fase 4
 

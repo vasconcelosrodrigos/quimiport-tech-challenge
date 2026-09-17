@@ -249,7 +249,7 @@ Desenvolvimento da API Backend utilizando Node.js.
 
 ### Fase 3
 
-Implementação da persistência utilizando PostgreSQL e Prisma.
+Implementação da persistência utilizando PostgreSQL.
 
 ### Fase 4
 
